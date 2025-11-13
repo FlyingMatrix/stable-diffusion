@@ -1,4 +1,4 @@
-# Stable Diffusion for Generative AI
+# Stable Diffusion
 A pytorch implementation of Stable Diffusion for text-to-image and image-to-image generation
 
 Important PATHs:
