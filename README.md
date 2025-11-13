@@ -1,7 +1,7 @@
 # Stable Diffusion
 A pytorch implementation of Stable Diffusion for text-to-image and image-to-image generation
 
-Important PATHs:
+**Important PATHs:**
 
 ./data:
 > - merges.txt
